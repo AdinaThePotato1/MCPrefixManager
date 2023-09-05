@@ -1,0 +1,11 @@
+# List all prefixes including formatting, example : &a[Prefixexample]
+prefixes:
+  - "&d[Floofy]"
+  - "&e[Donator]"
+
+
+
+#List all of these in the same order as your prefixes!
+permissions:
+- "prefix.floofy"
+- "prefix.donator"

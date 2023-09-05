@@ -1,0 +1,15 @@
+name: TagManager
+version: '1.0'
+main: me.adinathepotato.tagmanager.TagManager
+api-version: '1.20'
+
+softdepend:
+  - "Luckperms"
+
+commands:
+  changeprefix:
+    description: Changes your prefix
+
+  changeprefixconfig:
+    description: Changes your prefix based on the config file
+
